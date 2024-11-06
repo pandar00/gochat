@@ -6,7 +6,8 @@ import (
 )
 
 var Cmd = &cobra.Command{
-	Use: "gochat",
+	Use:   "gochat",
+	Short: "GoChat",
 }
 
 func main() {
