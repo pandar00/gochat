@@ -4,7 +4,7 @@
 
 # Install
 ```
-go install github.com/pandar00/gochat
+go install github.com/pandar00/gochat/cmd/gochat@latest
 ```
 
 # Usage
